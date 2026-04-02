@@ -194,12 +194,3 @@ status = "em estruturação"
 ![Quote](https://img.shields.io/badge/philosophy-hacker-black?style=flat-square)
 
 > "To defend systems, you must first understand how to break them."
-
----
-
-Se quiser dar o próximo nível 🔥, posso:
-
-* Fazer **badges dinâmicos (ex: número de membros, CTFs resolvidos)**
-* Criar **logo cyberpunk do PP404**
-* Montar um **perfil GitHub da organização inteiro nesse estilo**
-* Ou integrar com **GitHub Actions pra status real** 😈
