@@ -1,0 +1,215 @@
+# 👾 Onboarding — PP404
+
+Bem-vindo ao **PurplePhantom404 (PP404)** 🛡️
+Este guia vai te ajudar a começar dentro do grupo de forma rápida e organizada.
+
+---
+
+## 🧠 `whoami`
+
+Você agora faz parte de um grupo focado em:
+
+* Segurança da Informação
+* Aprendizado prático (hands-on)
+* Resolução de desafios
+* Desenvolvimento técnico e acadêmico
+
+---
+
+## 🎯 Objetivo do Onboarding
+
+```txt
+Integrar novos membros ao grupo
+Apresentar ferramentas e ambiente
+Iniciar prática em segurança
+```
+
+---
+
+## ⚙️ 1. Pré-requisitos
+
+Antes de começar, você deve ter:
+
+* Conta no GitHub
+* Conhecimento básico de informática
+* Vontade de aprender e colaborar
+
+---
+
+## 💻 2. Setup do Ambiente
+
+### 🐧 Sistema recomendado
+
+* Linux (preferencialmente Kali Linux)
+
+### 🧰 Ferramentas básicas
+
+* Terminal (bash/zsh)
+* Git
+* Navegador atualizado
+
+---
+
+### 🔧 Instalações essenciais
+
+```bash
+sudo apt update && sudo apt upgrade -y
+sudo apt install git curl wget net-tools -y
+```
+
+---
+
+## 🔐 3. Acesso ao PP404
+
+1. Solicite acesso à organização no GitHub
+2. Aceite o convite
+3. Explore os repositórios principais
+
+---
+
+## 📂 4. Estrutura do Grupo
+
+```bash
+pp404/
+pp404-labs/
+pp404-ctf/
+pp404-writeups/
+```
+
+---
+
+## 🧪 5. Primeira Atividade (Hands-on)
+
+### 🏁 Desafio inicial
+
+1. Acesse:
+
+```
+pp404-ctf/challenges/easy/first-challenge
+```
+
+2. Leia o README
+3. Resolva o desafio
+4. Encontre a flag
+
+---
+
+## 📝 6. Primeiro Writeup
+
+Após resolver:
+
+1. Vá para:
+
+```
+pp404-writeups/internal-ctf/
+```
+
+2. Crie um arquivo:
+
+```bash
+seu-nome-first-challenge.md
+```
+
+3. Explique:
+
+* Como resolveu
+* Ferramentas usadas
+* O que aprendeu
+
+---
+
+## 🔀 7. Contribuição
+
+### Fluxo básico:
+
+```bash
+fork → branch → commit → pull request
+```
+
+### Padrão de commit:
+
+```bash
+feat: nova funcionalidade
+fix: correção
+docs: documentação
+```
+
+---
+
+## 🧠 8. Trilha de Aprendizado
+
+### 🟢 Iniciante
+
+* Redes básicas
+* Linux
+* Conceitos de segurança
+
+### 🟡 Intermediário
+
+* Web security
+* Criptografia
+* OSINT
+
+### 🔴 Avançado
+
+* Pentest
+* Engenharia reversa
+* Forense
+
+---
+
+## 🏁 9. Participação
+
+Você pode:
+
+* Resolver desafios
+* Criar desafios
+* Escrever writeups
+* Desenvolver projetos
+* Participar de CTFs
+
+---
+
+## ⚠️ 10. Regras
+
+```diff
++ aprender continuamente
++ compartilhar conhecimento
++ respeitar membros
+- atividades ilegais
+- uso indevido de ferramentas
+```
+
+---
+
+## 💬 11. Comunicação
+
+* GitHub (principal)
+* Reuniões periódicas
+* Plataformas definidas pela coordenação
+
+---
+
+## 🚀 12. Evolução dentro do grupo
+
+```txt
+Novo membro → Contribuidor → Ativo → Líder técnico
+```
+
+---
+
+## 👁️‍🗨️ Filosofia
+
+> "Hackear é entender. Defender é dominar."
+
+---
+
+## 🔚 Final
+
+```bash
+> welcome to PP404
+> start learning.
+> stay curious.
+```
+
+---
