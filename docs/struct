@@ -1,0 +1,211 @@
+# 🧠 Estrutura de Repositórios — PP404
+
+Este documento descreve a organização dos repositórios do grupo **PurplePhantom404 (PP404)** dentro do GitHub.
+
+---
+
+## 📦 Visão Geral
+
+```bash
+pp404-org/
+├── pp404/
+├── pp404-labs/
+├── pp404-ctf/
+├── pp404-writeups/
+├── pp404-projects/
+└── pp404-resources/
+```
+
+---
+
+## 🥇 1. Repositório Principal — `pp404`
+
+Responsável pela documentação geral do grupo.
+
+```bash
+pp404/
+├── README.md
+├── docs/
+│   ├── onboarding.md
+│   ├── roadmap.md
+│   └── rules.md
+├── resources/
+│   ├── books.md
+│   ├── courses.md
+│   └── tools.md
+└── CONTRIBUTING.md
+```
+
+### 📌 Função:
+
+* Centralizar informações do grupo
+* Guiar novos membros
+* Definir regras e organização
+
+---
+
+## 🧪 2. Laboratórios — `pp404-labs`
+
+Ambiente para prática e experimentação.
+
+```bash
+pp404-labs/
+├── README.md
+├── web/
+│   ├── xss/
+│   ├── sqli/
+│   └── auth-bypass/
+├── network/
+│   ├── scanning/
+│   ├── sniffing/
+│   └── attacks/
+├── linux/
+│   ├── privilege-escalation/
+│   └── enumeration/
+└── setup/
+    ├── kali.md
+    └── virtualbox.md
+```
+
+### 📌 Função:
+
+* Simular cenários reais
+* Treinar habilidades práticas
+* Testar vulnerabilidades
+
+---
+
+## 🏁 3. Desafios — `pp404-ctf`
+
+Repositório de desafios estilo CTF.
+
+```bash
+pp404-ctf/
+├── README.md
+├── challenges/
+│   ├── easy/
+│   │   └── first-challenge/
+│   │       ├── README.md
+│   │       └── files/
+│   ├── medium/
+│   └── hard/
+└── templates/
+    └── challenge-template.md
+```
+
+### 📌 Função:
+
+* Criar desafios internos
+* Treinar resolução de problemas
+* Preparar para competições
+
+---
+
+## 📝 4. Writeups — `pp404-writeups`
+
+Documentação de soluções e estudos.
+
+```bash
+pp404-writeups/
+├── README.md
+├── internal-ctf/
+│   └── first-challenge.md
+├── external-ctf/
+│   └── hackthebox/
+│       └── machine-name.md
+└── templates/
+    └── writeup-template.md
+```
+
+### 📌 Função:
+
+* Registrar aprendizados
+* Documentar soluções
+* Compartilhar conhecimento
+
+---
+
+## 💻 5. Projetos — `pp404-projects`
+
+Desenvolvimento de ferramentas e pesquisa.
+
+```bash
+pp404-projects/
+├── README.md
+├── tools/
+│   ├── log-analyzer/
+│   ├── port-scanner/
+│   └── osint-tool/
+└── research/
+    ├── ai-security/
+    └── malware-analysis/
+```
+
+### 📌 Função:
+
+* Criar ferramentas próprias
+* Desenvolver pesquisa aplicada
+* Explorar novas tecnologias
+
+---
+
+## 📚 6. Recursos — `pp404-resources`
+
+Materiais de apoio e estudo.
+
+```bash
+pp404-resources/
+├── README.md
+├── books.md
+├── courses.md
+├── platforms.md
+└── tools.md
+```
+
+### 📌 Função:
+
+* Organizar materiais
+* Indicar conteúdos relevantes
+* Apoiar aprendizado contínuo
+
+---
+
+## 📌 Padrões Gerais
+
+### 📁 Organização
+
+* Cada pasta deve conter um `README.md`
+* Estrutura deve ser clara e padronizada
+
+### 🔀 Versionamento
+
+* Uso de branches
+* Pull Requests obrigatórios para mudanças relevantes
+
+### 📝 Commits
+
+Padrão recomendado:
+
+```bash
+feat: nova funcionalidade
+fix: correção
+docs: documentação
+refactor: melhoria de código
+```
+
+---
+
+## 🚀 Objetivo da Estrutura
+
+* Facilitar organização do grupo
+* Separar responsabilidades
+* Escalar o projeto
+* Manter padrão profissional
+
+---
+
+## 👾 Observação Final
+
+> "Organização forte cria hackers fortes."
+
+---
